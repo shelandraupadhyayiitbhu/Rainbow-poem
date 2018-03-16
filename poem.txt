@@ -8,4 +8,5 @@ orange
 Blue
 Red
 green
+yellow
 These are the colours of the rainbow.
